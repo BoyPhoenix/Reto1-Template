@@ -97,6 +97,7 @@ def req_1(data_structs):
     """
     # TODO: Realizar el requerimiento 1
     pass
+    return None
 
 
 def req_2(data_structs):
